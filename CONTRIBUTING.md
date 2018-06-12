@@ -1,4 +1,4 @@
-#Contributing to the Constitution
+# Contributing to the Constitution
 
 This may seem a bit daunting at first, but don't worry. This process is set out to make it extremely clear what is happenning and to maintain transparency for future and current members.
 
