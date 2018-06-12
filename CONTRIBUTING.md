@@ -5,6 +5,7 @@ This may seem a bit daunting at first, but don't worry. This process is set out 
 If you notice a problem with the constitution, or want to add something to it, click on the issues tab above and add a new issue. Include as much of the following as possible:
 
 * What the change is
+* Assign one of the three labels depending on what your issue is - Major for changes to the actual meaning, and Minor for spelling/grammar/clarity changes. Question should be used if you don't want to actually change the constitution.
 * The benefits of the change
 * Any negatives to the change
 * Which other members/exec are supportive of the change, if any
