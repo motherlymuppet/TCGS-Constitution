@@ -19,7 +19,7 @@
 1. Events
     1. Oliver was thinking about bar crawls
         1. He wants to figure it out based on what the people we get want.
-    1. Freshers-only taster session in week 1. Pencilled in Thu 11th 7:30pm. *TODO follow up with Amie*
+    1. Freshers-only taster session in week 1. Pencilled in Thu 11th 7:30pm.
         1. Oliver will create a faebook event
         1. After fresher's fair steven can send an email about this
     1. First saturday on 13th Oct 7:30pm.
